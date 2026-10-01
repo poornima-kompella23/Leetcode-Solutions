@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/poornima-kompella23/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0119-pascals-triangle-ii](https://github.com/poornima-kompella23/Leetcode-Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0229-majority-element-ii](https://github.com/poornima-kompella23/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/poornima-kompella23/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
@@ -22,6 +23,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/poornima-kompella23/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0229-majority-element-ii](https://github.com/poornima-kompella23/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 ## Sorting
 |  |
@@ -55,4 +57,8 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/poornima-kompella23/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/poornima-kompella23/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
