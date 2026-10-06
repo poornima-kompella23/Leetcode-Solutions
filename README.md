@@ -19,6 +19,7 @@
 |  |
 | ------- |
 | [0443-string-compression](https://github.com/poornima-kompella23/Leetcode-Solutions/tree/master/0443-string-compression) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/poornima-kompella23/Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/poornima-kompella23/Leetcode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Hash Table
 |  |
@@ -61,4 +62,16 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/poornima-kompella23/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
+## Stack
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/poornima-kompella23/Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Greedy
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/poornima-kompella23/Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/poornima-kompella23/Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
