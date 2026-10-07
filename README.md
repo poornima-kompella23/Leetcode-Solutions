@@ -21,6 +21,7 @@
 | [0443-string-compression](https://github.com/poornima-kompella23/Leetcode-Solutions/tree/master/0443-string-compression) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/poornima-kompella23/Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/poornima-kompella23/Leetcode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [3210-find-the-encrypted-string](https://github.com/poornima-kompella23/Leetcode-Solutions/tree/master/3210-find-the-encrypted-string) |
 ## Hash Table
 |  |
 | ------- |
