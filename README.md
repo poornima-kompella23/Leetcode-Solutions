@@ -10,6 +10,7 @@
 | [0287-find-the-duplicate-number](https://github.com/poornima-kompella23/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/poornima-kompella23/Leetcode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/poornima-kompella23/Leetcode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/poornima-kompella23/Leetcode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/poornima-kompella23/Leetcode-Solutions/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
 ## Two Pointers
 |  |
@@ -30,6 +31,7 @@
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/poornima-kompella23/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0229-majority-element-ii](https://github.com/poornima-kompella23/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/poornima-kompella23/Leetcode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/poornima-kompella23/Leetcode-Solutions/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
 ## Sorting
 |  |
@@ -85,4 +87,12 @@
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/poornima-kompella23/Leetcode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/poornima-kompella23/Leetcode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/poornima-kompella23/Leetcode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
