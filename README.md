@@ -8,6 +8,7 @@
 | [0119-pascals-triangle-ii](https://github.com/poornima-kompella23/Leetcode-Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0229-majority-element-ii](https://github.com/poornima-kompella23/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/poornima-kompella23/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/poornima-kompella23/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/poornima-kompella23/Leetcode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/poornima-kompella23/Leetcode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/poornima-kompella23/Leetcode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -38,6 +39,7 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/poornima-kompella23/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/poornima-kompella23/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Counting
 |  |
 | ------- |
@@ -54,6 +56,7 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/poornima-kompella23/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/poornima-kompella23/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Bit Manipulation
 |  |
 | ------- |
