@@ -8,6 +8,7 @@
 | [0119-pascals-triangle-ii](https://github.com/poornima-kompella23/Leetcode-Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0229-majority-element-ii](https://github.com/poornima-kompella23/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/poornima-kompella23/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0496-next-greater-element-i](https://github.com/poornima-kompella23/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/poornima-kompella23/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/poornima-kompella23/Leetcode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/poornima-kompella23/Leetcode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -33,6 +34,7 @@
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/poornima-kompella23/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0229-majority-element-ii](https://github.com/poornima-kompella23/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
+| [0496-next-greater-element-i](https://github.com/poornima-kompella23/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/poornima-kompella23/Leetcode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/poornima-kompella23/Leetcode-Solutions/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
 ## Sorting
@@ -76,6 +78,7 @@
 ## Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/poornima-kompella23/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/poornima-kompella23/Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/poornima-kompella23/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 ## Greedy
@@ -99,4 +102,8 @@
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/poornima-kompella23/Leetcode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/poornima-kompella23/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
