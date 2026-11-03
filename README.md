@@ -30,6 +30,7 @@
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/poornima-kompella23/Leetcode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2315-count-asterisks](https://github.com/poornima-kompella23/Leetcode-Solutions/tree/master/2315-count-asterisks) |
 | [3210-find-the-encrypted-string](https://github.com/poornima-kompella23/Leetcode-Solutions/tree/master/3210-find-the-encrypted-string) |
+| [3330-find-the-original-typed-string-i](https://github.com/poornima-kompella23/Leetcode-Solutions/tree/master/3330-find-the-original-typed-string-i) |
 ## Hash Table
 |  |
 | ------- |
