@@ -9,6 +9,7 @@
 | [0229-majority-element-ii](https://github.com/poornima-kompella23/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/poornima-kompella23/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0496-next-greater-element-i](https://github.com/poornima-kompella23/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/poornima-kompella23/Leetcode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/poornima-kompella23/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/poornima-kompella23/Leetcode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/poornima-kompella23/Leetcode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -20,6 +21,7 @@
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/poornima-kompella23/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/poornima-kompella23/Leetcode-Solutions/tree/master/0443-string-compression) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/poornima-kompella23/Leetcode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/poornima-kompella23/Leetcode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## String
 |  |
@@ -43,6 +45,7 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/poornima-kompella23/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/poornima-kompella23/Leetcode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/poornima-kompella23/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Counting
 |  |
@@ -60,6 +63,7 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/poornima-kompella23/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/poornima-kompella23/Leetcode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/poornima-kompella23/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Bit Manipulation
 |  |
