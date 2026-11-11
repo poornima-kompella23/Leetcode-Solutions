@@ -16,6 +16,7 @@
 | [2778-sum-of-squares-of-special-elements](https://github.com/poornima-kompella23/Leetcode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/poornima-kompella23/Leetcode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/poornima-kompella23/Leetcode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [4038-count-integers-appearing-in-a-single-block](https://github.com/poornima-kompella23/Leetcode-Solutions/tree/master/4038-count-integers-appearing-in-a-single-block) |
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/poornima-kompella23/Leetcode-Solutions/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
 ## Two Pointers
 |  |
@@ -43,6 +44,7 @@
 | [0229-majority-element-ii](https://github.com/poornima-kompella23/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [0496-next-greater-element-i](https://github.com/poornima-kompella23/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/poornima-kompella23/Leetcode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [4038-count-integers-appearing-in-a-single-block](https://github.com/poornima-kompella23/Leetcode-Solutions/tree/master/4038-count-integers-appearing-in-a-single-block) |
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/poornima-kompella23/Leetcode-Solutions/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
 ## Sorting
 |  |
@@ -55,6 +57,7 @@
 | ------- |
 | [0229-majority-element-ii](https://github.com/poornima-kompella23/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [1267-count-servers-that-communicate](https://github.com/poornima-kompella23/Leetcode-Solutions/tree/master/1267-count-servers-that-communicate) |
+| [4038-count-integers-appearing-in-a-single-block](https://github.com/poornima-kompella23/Leetcode-Solutions/tree/master/4038-count-integers-appearing-in-a-single-block) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
