@@ -35,6 +35,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/poornima-kompella23/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/poornima-kompella23/Leetcode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2315-count-asterisks](https://github.com/poornima-kompella23/Leetcode-Solutions/tree/master/2315-count-asterisks) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/poornima-kompella23/Leetcode-Solutions/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3210-find-the-encrypted-string](https://github.com/poornima-kompella23/Leetcode-Solutions/tree/master/3210-find-the-encrypted-string) |
 | [3330-find-the-original-typed-string-i](https://github.com/poornima-kompella23/Leetcode-Solutions/tree/master/3330-find-the-original-typed-string-i) |
 ## Hash Table
