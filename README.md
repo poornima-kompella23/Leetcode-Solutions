@@ -13,6 +13,7 @@
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/poornima-kompella23/Leetcode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/poornima-kompella23/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/poornima-kompella23/Leetcode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/poornima-kompella23/Leetcode-Solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/poornima-kompella23/Leetcode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/poornima-kompella23/Leetcode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/poornima-kompella23/Leetcode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -124,6 +125,7 @@
 ## Math
 |  |
 | ------- |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/poornima-kompella23/Leetcode-Solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/poornima-kompella23/Leetcode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Depth-First Search
 |  |
