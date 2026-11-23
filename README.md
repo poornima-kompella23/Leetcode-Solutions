@@ -18,6 +18,7 @@
 | [2644-find-the-maximum-divisibility-score](https://github.com/poornima-kompella23/Leetcode-Solutions/tree/master/2644-find-the-maximum-divisibility-score) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/poornima-kompella23/Leetcode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/poornima-kompella23/Leetcode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/poornima-kompella23/Leetcode-Solutions/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/poornima-kompella23/Leetcode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [4038-count-integers-appearing-in-a-single-block](https://github.com/poornima-kompella23/Leetcode-Solutions/tree/master/4038-count-integers-appearing-in-a-single-block) |
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/poornima-kompella23/Leetcode-Solutions/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
@@ -142,4 +143,8 @@
 |  |
 | ------- |
 | [1267-count-servers-that-communicate](https://github.com/poornima-kompella23/Leetcode-Solutions/tree/master/1267-count-servers-that-communicate) |
+## Simulation
+|  |
+| ------- |
+| [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/poornima-kompella23/Leetcode-Solutions/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
 <!---LeetCode Topics End-->
