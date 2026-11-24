@@ -19,6 +19,7 @@
 | [2778-sum-of-squares-of-special-elements](https://github.com/poornima-kompella23/Leetcode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/poornima-kompella23/Leetcode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/poornima-kompella23/Leetcode-Solutions/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/poornima-kompella23/Leetcode-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/poornima-kompella23/Leetcode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [4038-count-integers-appearing-in-a-single-block](https://github.com/poornima-kompella23/Leetcode-Solutions/tree/master/4038-count-integers-appearing-in-a-single-block) |
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/poornima-kompella23/Leetcode-Solutions/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
@@ -114,6 +115,7 @@
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/poornima-kompella23/Leetcode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/poornima-kompella23/Leetcode-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -130,6 +132,7 @@
 |  |
 | ------- |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/poornima-kompella23/Leetcode-Solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/poornima-kompella23/Leetcode-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/poornima-kompella23/Leetcode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Depth-First Search
 |  |
@@ -147,4 +150,12 @@
 |  |
 | ------- |
 | [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/poornima-kompella23/Leetcode-Solutions/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
+## Sliding Window
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/poornima-kompella23/Leetcode-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/poornima-kompella23/Leetcode-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
